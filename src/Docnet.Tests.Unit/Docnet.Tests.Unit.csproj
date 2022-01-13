@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Docnet.Core\Docnet.Core.csproj" />
+    <ProjectReference Include="..\Docnet.Core.Standard\Docnet.Core.Standard.csproj" />
   </ItemGroup>
 
 </Project>
